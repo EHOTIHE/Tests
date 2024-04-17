@@ -1,0 +1,11 @@
+node_modules
+outputs/*.png
+outputs/*.json
+outputs/*.webm
+outputs/tmp/
+.env
+allure-results/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/

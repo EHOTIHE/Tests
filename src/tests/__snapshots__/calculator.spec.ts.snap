@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Calculators flow backup plan 500tb: outputs/'backup-plan-1st-flow1'-screenshot.png 1`] = `"outputs/backup-plan-1st-flow1-screenshot.png"`;
+
+exports[`Calculators flow backup plan 500tb: outputs/'backup-plan-2nd-flow1'-screenshot.png 1`] = `"outputs/backup-plan-2nd-flow-screenshot.png"`;
+
+exports[`Calculators flow backup plan 1000tb 1`] = `"outputs/backup-plan-1st-flow-screenshot.png"`;
+
+exports[`Calculators flow backup plan 1000tb: outputs/'backup-plan-1st-flow1'-screenshot.png 1`] = `"outputs/backup-plan-1st-flow-screenshot.png"`;
+
+exports[`Calculators flow backup plan 1000tb: outputs/'backup-plan-2nd-flow1'-screenshot.png 1`] = `"outputs/backup-plan-2nd-flow1-screenshot.png"`;
+
+exports[`Calculators flow s3 plan total data stored 10tb monthly downloaded 500tb: outputs/'s3-plan-2ndflow1'-screenshot.png 1`] = `"outputs/s3-plan-2ndflow-screenshot.png"`;
+
+exports[`Calculators flow s3 plan total data stored 500tb monthly downloaded 10 1`] = `"outputs/s3-plan-1stflow-screenshot.png"`;
+
+exports[`Calculators flow s3 plan total data stored 500tb monthly downloaded 10: outputs/s3-plan-1stflow-screenshot.png 1`] = `"outputs/s3-plan-1stflow1-screenshot.png"`;
